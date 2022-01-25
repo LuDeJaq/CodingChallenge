@@ -1,0 +1,73 @@
+body{
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: 20px 250px 10px 250px;
+}
+
+.container{
+  background-color: rgb(0,0,0,0.5);
+  border-radius: 20px;
+  padding: 50px 80px 80px 80px;
+}
+
+/* Header */
+div > img{
+    width: auto;
+    height: 75px;
+    margin-top: 10px;
+  }
+.lim{
+  text-align: center;
+}
+.Titolo{
+  color: #00e600;
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+}
+
+/* Nav */
+.submit{
+  background-color: #00e600;
+  padding: 7px 20px 7px 20px;
+  text-align: center;
+}
+
+/* Main */
+main{
+  color: white;
+}
+
+span{
+  font-family: 'Poppins', sans-serif;
+  font-size: 12px;
+}
+
+span[class="grassetto"]{
+  font-size: 20px;
+}
+
+
+/* Linea e Colori */
+hr{
+  height: 26px;
+  border-radius: 5px;
+}
+.arancio{
+  background-color: #ffb366;
+  border: #ffb366;
+  width: 300px;
+  margin-right: 80%;
+
+}
+.verde{
+  background-color: #00b300;
+  border: #00b300;
+  width: 550px;
+  margin-right: 55%
+}
+.rosso{
+  background-color: #ea4e43;
+  border: #ea4e43;
+  width: 150px;
+  margin-right: 90%;
+}
